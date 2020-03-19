@@ -7,5 +7,5 @@ cfg = {
    'srf_trig' : 23,
    'srf_echo' : 24,
    
-   'servo' : 25
+   'servo' : 18
 }
